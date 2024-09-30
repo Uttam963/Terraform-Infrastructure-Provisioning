@@ -1,0 +1,10 @@
+{
+	"VM_count" : "2",
+	"VM_size" : "Standard_DS1_v2",
+	"os_version" : "22_04-lts-gen2",
+	"os_disk_type" : "Standard_LRS",
+	"AKS_node_size" : "Standard_D8s_v3",
+	"AKS_version" : "1.26.3",
+	"mysql_sku_name" : "GP_Gen5_2",
+	"mysql_storage_mb" : "5120"
+}

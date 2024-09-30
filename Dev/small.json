@@ -1,0 +1,12 @@
+{
+	"VM_count" : "3",
+	"VM_size" : "Standard_D8ads_v5",
+	"os_version" : "server",
+	"os_disk_type" : "Premium_LRS",
+	"AKS_node_size" : "Standard_D8s_v3",
+	"AKS_version" : "1.30.3",
+	"mysql_sku_name" : "GP_Standard_D4ds_v4",
+	"mysql_storage_gb" : "1024",
+	"mysql_version" : "8.0.21",
+	"AppdVm_size" : "Standard_D2s_v3"
+}
